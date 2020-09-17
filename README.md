@@ -7,19 +7,19 @@
 
 Download bin/ to your working directory, then simply run:
 
-```r
-./bin/run_sims.sh <Ne> <reps>
+```
+./bin/run_sims.sh Ne reps
 
 ```
 
 \
-Replacing <Ne> with 100, 500 or 1000 depending on which of the three metapopulation sizes you want to run
-and replacing <reps> with the number of replicate simulations you want to run (suggest 100)
+Replacing Ne with 100, 500 or 1000 depending on which of the three metapopulation sizes you want to run
+and replacing reps with the number of replicate simulations you want to run (suggest 100)
 
 
 
 \
-This has been tested on MacOS. You will need to ensure R, perl and SLiM are installed and in your $PATH
+This has been tested on MacOS. You will need to ensure R, perl and SLiM are installed
 \
 It should also work on most linux distros but you will need to change gcsplit to csplit in run_sims.sh 
 
