@@ -8,6 +8,14 @@
 Download the repo [here](https://github.com/pygmyperch/SPP_SLiM/archive/master.zip)
 
 \
+There are six .R files in bin/<br />
+For each one, you need to add the path to your working directory to the line:
+```
+setwd("/path/to/dir/")
+
+```
+
+\
 Move bin/ to your working directory, then simply run:
 
 ```
