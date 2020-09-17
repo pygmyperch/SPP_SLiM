@@ -1,8 +1,7 @@
 ## generate plots for each metapop
 
 
-#setwd("/path/to/sim_reps")
-setwd("/Users/chrisbrauer/Projects/spp_sim_test/Ne100/sim_reps/")
+setwd("/path/to/sim_reps")
 
 scenario_dirs <- list.dirs('.', full.names = T, recursive = F)
 

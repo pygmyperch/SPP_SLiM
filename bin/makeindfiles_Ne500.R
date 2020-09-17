@@ -2,8 +2,7 @@
 
 
 # set wd to your analysis directory (must contain the directory with the scripts: bin/)
-#setwd("/path/to/dir/")
-setwd("/Users/chrisbrauer/Projects/spp_sim_test/")
+setwd("/path/to/dir/")
 getwd()
 # create output dirs
 sapply(c(2:10), function(x) dir.create(paste0("./Ne500/",x,"pop_inds")))
