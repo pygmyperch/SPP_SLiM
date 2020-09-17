@@ -25,5 +25,5 @@ and replacing **reps** with the number of replicate simulations you want to run 
 \
 The code is ugly :dizzy_face: but it works (tested on MacOS). You will need to ensure R, perl and SLiM are installed.
 \
-It should also work on most linux distros but you will need to change gcsplit to csplit in bin/run_sims.sh 
+I think it should also work on most linux distros but you will need to change gcsplit to csplit in bin/run_sims.sh 
 
