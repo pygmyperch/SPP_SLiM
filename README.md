@@ -16,8 +16,9 @@ Move bin/ to your working directory, then simply run:
 ```
 
 \
-Replacing Ne with 100, 500 or 1000 depending on which of the three metapopulation sizes you want to run
-and replacing reps with the number of replicate simulations you want to run (suggest 100)
+Replacing **Ne** with 100, 500 or 1000 depending on which of the three metapopulation sizes you want to run,<br />
+and replacing **reps** with the number of replicate simulations you want to run (suggest 100)<br />
+**Note.** The code will only work for Ne of 100, 500 or 1000.
 
 
 
