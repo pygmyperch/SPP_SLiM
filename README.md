@@ -9,7 +9,7 @@ Download the repo [here](https://github.com/pygmyperch/SPP_SLiM/archive/master.z
 
 \
 There are six .R files in bin/<br />
-For each one, you need to add the path to your working directory to the line:
+For each one, you need edit the path to your working directory at the line:
 ```
 setwd("/path/to/dir/")
 
