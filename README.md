@@ -1,5 +1,5 @@
 # SPP_SLiM
- Code to run the simulations for the paper
+ Code to run the eco-evolutionary simulations for the paper:
  
  [Brauer CJ, and Beheregaray LB (2020) Recent and rapid anthropogenic habitat fragmentation increases extinction risk for freshwater biodiversity. *Evolutionary Applications* **xx**, xxx-xxx.](https://www.biorxiv.org/content/10.1101/2020.02.04.934729v1.abstract)
  
