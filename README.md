@@ -5,7 +5,10 @@
  
 ## To run the simulations:
 
-Download bin/ to your working directory, then simply run:
+Download the repo [here](https://github.com/pygmyperch/SPP_SLiM/archive/master.zip)
+
+\
+Move bin/ to your working directory, then simply run:
 
 ```
 ./bin/run_sims.sh Ne reps
@@ -21,5 +24,5 @@ and replacing reps with the number of replicate simulations you want to run (sug
 \
 This has been tested on MacOS. You will need to ensure R, perl and SLiM are installed
 \
-It should also work on most linux distros but you will need to change gcsplit to csplit in run_sims.sh 
+It should also work on most linux distros but you will need to change gcsplit to csplit in bin/run_sims.sh 
 
